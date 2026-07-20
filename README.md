@@ -4,3 +4,8 @@ This repository was created as part of the CDC Week 1 GitHub Collaboration exerc
 
 Author: Janaanii BA
 
+## Feature Branch
+
+This section was added in the feature-readme branch.
+
+Learning GitHub Pull Requests.
