@@ -9,3 +9,7 @@ Author: Janaanii BA
 This section was added in the feature-readme branch.
 
 Learning GitHub Pull Requests.
+
+## Pull Request Practice
+
+This line was added for HW-10.
